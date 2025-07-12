@@ -1,72 +1,52 @@
-# 👋 Hi, I'm Rahul Saini
+👋 Hi, I'm Rahul Saini
+🎓 CSE undergraduate at Lovely Professional University, passionate about Machine Learning and building real-world AI-powered solutions.
+💡 I combine strong CS fundamentals with hands-on project experience to solve impactful problems.
 
-🚀 A Machine Learning enthusiast and CSE undergraduate at **Lovely Professional University** with a passion for building impactful AI solutions.
+🚀 Skilled in deploying intelligent systems using PyTorch, TensorFlow, Scikit-Learn, and Flask — with a firm grip on DSA, OOP, and engineering logic.
 
-🔍 I specialize in creating data-driven applications using tools like **PyTorch, TensorFlow, Scikit-Learn, and Flask**, with a strong foundation in **DSA, OOPs, and core CS fundamentals**.
+📬 Email: Rahulsaini11204@gmail.com
+🔗 LinkedIn: linkedin.com/in/rahul1232
+🐙 GitHub: github.com/rahul7697762
 
-📫 **Email:** Rahulsaini11204@gmail.com  
-🔗 **LinkedIn:** [https://linkedin.com/rahul1232](https://www.linkedin.com/in/rahul1232/)
-🐙 **GitHub:** https://github.com/rahul7697762
+🧠 Technical Toolbox
+🖥️ Languages: Python, C++, C, Java, JavaScript, SQL
+📊 ML/AI: Transformers, CNN, LSTM, GRU, LangChain, MLflow
+🧰 Frameworks/Tools: PyTorch, TensorFlow, Scikit-Learn, Flask, Docker, AWS, MySQL, MongoDB
+🧩 CS Fundamentals: Data Structures & Algorithms, OOP, Engineering Mathematics
+🤝 Soft Skills: Teamwork, Problem Solving, Leadership, Communication, Project Management
 
----
+🚀 Featured Projects
+🌾 Crop Guidance System (Apr 2025)
+🔍 Developed an ML-based recommendation system for optimal crop planning.
+✅ 85%+ accuracy using Random Forest, XGBoost, and K-Means
+🌦️ Integrated real-time weather data using OpenWeather API
 
-## 🧠 Skills
+🛠️ Tech: Python, Pandas, Numpy, Scikit-learn, Flask
 
-- **Languages:** C++, JavaScript, C, Java, Python, SQL  
-- **Machine Learning:** Transformers, CNN, LSTM, GRU, LangChain, MLflow  
-- **Frameworks/Tools:** PyTorch, TensorFlow, Docker, AWS, MySQL, MongoDB  
-- **CS Fundamentals:** Data Structures, Algorithms, Engineering Mathematics, OOP  
-- **Soft Skills:** Problem-Solving, Team Collaboration, Project Management, Adaptability  
+🧠 Gender and Age Detection (Dec 2024)
+🧬 Built a CNN model for real-time gender and age prediction from images.
+🎯 Achieved 96% accuracy with optimized architecture and preprocessing.
+📷 Used OpenCV for webcam-based facial analysis.
 
----
+🛠️ Tech: Python, TensorFlow, Keras, OpenCV, NumPy
 
-## 🛠️ Projects
+📜 Certifications & Courses
+🧠 Machine Learning Specialization – DeepLearning.ai (Jan 2025)
 
-### 🌾 Crop Guidance System (Apr 2025)
-- Built an ML pipeline for recommending crops and precautions using weather, soil, and pest data.
-- Achieved ~85% decision accuracy using **Random Forest, XGBoost** and **K-Means clustering**.
-- Integrated real-time weather via **OpenWeather API** for location-specific insights.
+🧪 Intro to Large Language Models – Google Cloud (Dec 2024)
 
-> Tech: Python, Pandas, Numpy, Scikit-learn, Flask, OpenWeather API
+🔁 Complete Interview Prep (Java & DSA) – GeeksforGeeks (Oct 2024)
 
----
+🧮 Mastering DSA – Iamneo (June 2024)
 
-### 🧠 Gender and Age Detection (Dec 2024)
-- Developed a deep learning system with **CNN** for gender and age classification using **OpenCV**.
-- Reached 96% accuracy using TensorFlow/Keras and performance tuning.
+🐍 Python Pro Bootcamp – Angela Yu (Udemy) (Mar 2024)
 
-> Tech: Python, TensorFlow, Keras, OpenCV, NumPy, Pandas
 
----
+🎓 Education
+📚 Bachelor of Technology – Computer Science & Engineering
+🏫 Lovely Professional University, Punjab
+📊 Current CGPA: 7.6 (Since Aug 2023)
 
-## 📜 Certifications
-
-- 🧠 *Machine Learning Specialization* – DeepLearning.ai – Jan 2025  
-- 💡 *Intro to Large Language Models* – Google Cloud – Dec 2024  
-- 🧰 *Complete Interview Preparation (Java & DSA)* – GFG – Oct 2024  
-- ⚙️ *Mastering DSA* – Iamneo – June 2024  
-- 🐍 *Python Pro Bootcamp* – Angela Yu (Udemy) – March 2024  
-
----
-
-## 🏆 Achievements
-
-- 🌐 **Global Rank 1354** among 40k+ in GeeksforGeeks Institutional Contest  
-- 🧪 Participated in **Global Science Conference (GSC2023)**  
-- 🧠 Finalist – **Smart India Hackathon**, developed AI-based solution  
-- 🥉 **3rd Place** – *CODE OFF DUTY 2024*, AI-powered defect detection system  
-
----
-
-## 🎓 Education
-
-**Bachelor of Technology – Computer Science & Engineering**  
-📍 Lovely Professional University, Punjab  
-📊 CGPA: 7.6 | Since August 2023
-
----
-
-### 💬 Let’s Collaborate!
-
-If you're interested in machine learning, data science, or just want to chat about cool tech—feel free to reach out!
-
+🤝 Let’s Collaborate!
+💬 I'm always excited to connect with fellow developers, researchers, and innovators.
+Whether it’s ML research, data science projects, or tech talks — feel free to reach out!
