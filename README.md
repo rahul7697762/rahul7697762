@@ -51,7 +51,7 @@
       <img width="400px" src="https://github-readme-stats.vercel.app/api?username=rahul7697762&show_icons=true&locale=en&theme=transparent" alt="GitHub Stats" />
     </td>
     <td>
-      <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul7697762&theme=transparent" alt="GitHub Streak" />
+      <img width="400px" src="https://streak-stats.demolab.com/?user=rahul7697762&theme=transparent" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
