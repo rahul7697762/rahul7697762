@@ -3,7 +3,7 @@
 # 💫 About Me: &emsp;Rahul Saini &nbsp; <img src="https://komarev.com/ghpvc/?username=rahul7697762&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 
-🔭 I’m currently working on AI/ML models, MLOps pipelines, and experiment tracking.<br>👯 I’m looking to collaborate on open-source AI/ML and full-stack development projects.<br>🤝 I’m looking for help with optimizing model deployment and CI/CD automation.<br>🌱 I’m currently learning LLMs, advanced MLOps, and cloud-based AI solutions.<br>💬 Ask me about Machine Learning, DVC, MLflow, Kaggle, and AI model training.<br>⚡ Fun fact: I love breaking AI models just to make them better! 😆🚀
+🔭 I’m currently working on AI/ML models, MLOps pipelines, and experiment tracking.<br>🤖 Recently, I’ve been building AI voice agents and workflow automations using n8n, integrating LLMs for intelligent call handling, conversation analysis, and process automation.<br>👯 I’m looking to collaborate on open-source AI/ML and full-stack development projects.<br>🤝 I’m seeking opportunities to optimize model deployment, CI/CD, and automated AI agent systems.<br>🌱 I’m currently learning LLMs, advanced MLOps, and cloud-based AI solutions.<br>💬 Ask me about Machine Learning, DVC, MLflow, Kaggle, MLOps pipelines, or AI voice automation.<br>⚡ Fun fact: I love breaking AI models just to make them better! 😆🚀
 
 
 ## 🌐 Socials:
